@@ -4,3 +4,4 @@ pandas
 elasticsearch
 python-dotenv
 requests
+gunicorn
